@@ -1,6 +1,6 @@
 {
-  "name": "laravel-frontend-presets/tailwindcss",
-  "description": "Laravel frontend preset for Tailwind CSS",
+  "name": "alesvaupotic/tailwindcss",
+  "description": "Forked Laravel frontend preset for Tailwind CSS",
   "keywords": ["laravel", "preset", "tailwindcss"],
   "license": "MIT",
   "require": {
